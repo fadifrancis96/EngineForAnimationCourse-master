@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\ENGINEFORANIMATIONCOURSE-MASTER\EXTERNAL\.CACHE\GLAD\CMAKEFILES\D183BC69E55B6213289256F17E2DAD17\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad -BC:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad/glad-download.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

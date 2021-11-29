@@ -1,0 +1,14 @@
+# Target labels
+ glad-download
+# Source files and their labels
+C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad/CMakeFiles/glad-download
+C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad/CMakeFiles/d183bc69e55b6213289256f17e2dad17/glad-download.rule
+C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad/CMakeFiles/260caa538a3dc0ce76bca28519fa78a5/glad-download-complete.rule
+C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad/CMakeFiles/7708910877aa411342a175ce6372a95c/glad-download-build.rule
+C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad/CMakeFiles/7708910877aa411342a175ce6372a95c/glad-download-configure.rule
+C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad/CMakeFiles/7708910877aa411342a175ce6372a95c/glad-download-download.rule
+C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad/CMakeFiles/7708910877aa411342a175ce6372a95c/glad-download-install.rule
+C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad/CMakeFiles/7708910877aa411342a175ce6372a95c/glad-download-mkdir.rule
+C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad/CMakeFiles/7708910877aa411342a175ce6372a95c/glad-download-patch.rule
+C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad/CMakeFiles/7708910877aa411342a175ce6372a95c/glad-download-test.rule
+C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glad/CMakeFiles/7708910877aa411342a175ce6372a95c/glad-download-update.rule

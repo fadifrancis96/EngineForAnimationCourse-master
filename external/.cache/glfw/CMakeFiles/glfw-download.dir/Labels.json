@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glfw/CMakeFiles/glfw-download"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glfw/CMakeFiles/bd7a0dfdd996ecf02895dbcbb1c6a2cb/glfw-download.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glfw/CMakeFiles/510824d82268d5f950cee4d76bbce0cf/glfw-download-complete.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glfw/CMakeFiles/8f930bc4a2b5ff05a790e8f5b8961742/glfw-download-build.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glfw/CMakeFiles/8f930bc4a2b5ff05a790e8f5b8961742/glfw-download-configure.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glfw/CMakeFiles/8f930bc4a2b5ff05a790e8f5b8961742/glfw-download-download.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glfw/CMakeFiles/8f930bc4a2b5ff05a790e8f5b8961742/glfw-download-install.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glfw/CMakeFiles/8f930bc4a2b5ff05a790e8f5b8961742/glfw-download-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glfw/CMakeFiles/8f930bc4a2b5ff05a790e8f5b8961742/glfw-download-patch.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glfw/CMakeFiles/8f930bc4a2b5ff05a790e8f5b8961742/glfw-download-test.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/glfw/CMakeFiles/8f930bc4a2b5ff05a790e8f5b8961742/glfw-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-download"
+		],
+		"name" : "glfw-download"
+	}
+}

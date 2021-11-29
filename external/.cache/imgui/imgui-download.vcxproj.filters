@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\imgui\CMakeFiles\4463b8ae04d249bc4c37f8c33d2373b4\imgui-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\imgui\CMakeFiles\4463b8ae04d249bc4c37f8c33d2373b4\imgui-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\imgui\CMakeFiles\4463b8ae04d249bc4c37f8c33d2373b4\imgui-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\imgui\CMakeFiles\4463b8ae04d249bc4c37f8c33d2373b4\imgui-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\imgui\CMakeFiles\4463b8ae04d249bc4c37f8c33d2373b4\imgui-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\imgui\CMakeFiles\4463b8ae04d249bc4c37f8c33d2373b4\imgui-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\imgui\CMakeFiles\4463b8ae04d249bc4c37f8c33d2373b4\imgui-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\imgui\CMakeFiles\4463b8ae04d249bc4c37f8c33d2373b4\imgui-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\imgui\CMakeFiles\a53fb626ed08d274ffdb1f90b168a861\imgui-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\imgui\CMakeFiles\938197344933d08ad4517df7d65e60b2\imgui-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\imgui\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\imgui\CMakeFiles\imgui-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D15DA550-3E09-3CEE-8441-C598DEFCD994}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

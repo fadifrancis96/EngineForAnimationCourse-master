@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen/CMakeFiles/eigen-download"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen/CMakeFiles/a56eedd4a32df75a014c59ff68b0a66e/eigen-download.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen/CMakeFiles/dfd32422a791b6085de7f8a5e3574a22/eigen-download-complete.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen/CMakeFiles/a5251028dcbf59e0429c49ad788995ac/eigen-download-build.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen/CMakeFiles/a5251028dcbf59e0429c49ad788995ac/eigen-download-configure.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen/CMakeFiles/a5251028dcbf59e0429c49ad788995ac/eigen-download-download.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen/CMakeFiles/a5251028dcbf59e0429c49ad788995ac/eigen-download-install.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen/CMakeFiles/a5251028dcbf59e0429c49ad788995ac/eigen-download-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen/CMakeFiles/a5251028dcbf59e0429c49ad788995ac/eigen-download-patch.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen/CMakeFiles/a5251028dcbf59e0429c49ad788995ac/eigen-download-test.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen/CMakeFiles/a5251028dcbf59e0429c49ad788995ac/eigen-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"eigen-download"
+		],
+		"name" : "eigen-download"
+	}
+}

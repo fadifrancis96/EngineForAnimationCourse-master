@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\eigen\CMakeFiles\a5251028dcbf59e0429c49ad788995ac\eigen-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\eigen\CMakeFiles\a5251028dcbf59e0429c49ad788995ac\eigen-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\eigen\CMakeFiles\a5251028dcbf59e0429c49ad788995ac\eigen-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\eigen\CMakeFiles\a5251028dcbf59e0429c49ad788995ac\eigen-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\eigen\CMakeFiles\a5251028dcbf59e0429c49ad788995ac\eigen-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\eigen\CMakeFiles\a5251028dcbf59e0429c49ad788995ac\eigen-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\eigen\CMakeFiles\a5251028dcbf59e0429c49ad788995ac\eigen-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\eigen\CMakeFiles\a5251028dcbf59e0429c49ad788995ac\eigen-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\eigen\CMakeFiles\dfd32422a791b6085de7f8a5e3574a22\eigen-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\eigen\CMakeFiles\a56eedd4a32df75a014c59ff68b0a66e\eigen-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\eigen\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\ASUS\EngineForAnimationCourse-master\external\.cache\eigen\CMakeFiles\eigen-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{50806BFF-EAD3-3032-A971-5FA53C173B7A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

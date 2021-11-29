@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/stb/CMakeFiles/stb-download"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/stb/CMakeFiles/846e624593ea47d2f63e949021840efa/stb-download.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/stb/CMakeFiles/5c0d7536226906da68003259fffb54c9/stb-download-complete.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/stb/CMakeFiles/131e02d6992bf6f03c7b1e6eabe42132/stb-download-build.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/stb/CMakeFiles/131e02d6992bf6f03c7b1e6eabe42132/stb-download-configure.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/stb/CMakeFiles/131e02d6992bf6f03c7b1e6eabe42132/stb-download-download.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/stb/CMakeFiles/131e02d6992bf6f03c7b1e6eabe42132/stb-download-install.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/stb/CMakeFiles/131e02d6992bf6f03c7b1e6eabe42132/stb-download-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/stb/CMakeFiles/131e02d6992bf6f03c7b1e6eabe42132/stb-download-patch.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/stb/CMakeFiles/131e02d6992bf6f03c7b1e6eabe42132/stb-download-test.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/stb/CMakeFiles/131e02d6992bf6f03c7b1e6eabe42132/stb-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stb-download"
+		],
+		"name" : "stb-download"
+	}
+}

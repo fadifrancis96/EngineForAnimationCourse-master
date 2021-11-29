@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ASUS\EngineForAnimationCourse-master\CMakeFiles\a94325b02341d770c7e27d7098e960b6\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A5CB4AAC-9692-3C09-8D0E-454F92677D03}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

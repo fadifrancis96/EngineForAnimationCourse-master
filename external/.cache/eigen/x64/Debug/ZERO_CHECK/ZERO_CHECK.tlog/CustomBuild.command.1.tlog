@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\ENGINEFORANIMATIONCOURSE-MASTER\EXTERNAL\.CACHE\EIGEN\CMAKEFILES\A56EEDD4A32DF75A014C59FF68B0A66E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen -BC:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ASUS/EngineForAnimationCourse-master/external/.cache/eigen/eigen-download.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
