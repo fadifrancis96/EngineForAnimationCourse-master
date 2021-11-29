@@ -16,6 +16,7 @@
 //#include <Eigen/Core>
 #include <memory>
 #include <vector>
+#include <set>
 
 
 // Alec: This is a mesh class containing a variety of data types (normals,
@@ -151,6 +152,22 @@ public:
 
   Eigen::MatrixXd V; // Vertices of the current mesh (#V x 3)
   Eigen::MatrixXi F; // Faces of the mesh (#F x 3)
+
+
+
+  // ASSIGNMENT 1 TASK 5 - build a data structure
+  std::set<std::pair<double, int>>* Q;
+
+  Eigen::VectorXi* EMAP;
+  Eigen::MatrixXi* E;
+  Eigen::MatrixXi* EI;
+  Eigen::MatrixXi* EF;
+  Eigen::MatrixXd* C;
+
+
+
+
+
 
   // Per face attributes
   Eigen::MatrixXd F_normals; // One normal per face
